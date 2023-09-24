@@ -1,0 +1,94 @@
+body {
+  background-image: url("images/Ilam.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#current_city {
+  display: inline-block;
+  font-family: "Caveat", cursive;
+  font-size: 50px;
+  margin-top: 5px;
+  color: #2c5d63;
+}
+#kash {
+  font-family: "Permanent Marker", cursive;
+  color: #fff653;
+  font-size: 80px;
+  margin-left: 10px;
+}
+
+#description {
+  font-family: "Coming Soon";
+  font-size: 35px;
+  margin-top: 5px;
+  color: #2c5d63;
+  margin-bottom: 10px;
+}
+#germi {
+  display: inline-block;
+  display: inline-block;
+  font-family: "Permanent Marker", cursive;
+  font-size: 35px;
+  margin-top: 5px;
+  color: #2c5d63;
+  margin-left: 20px;
+}
+
+ul {
+  font-family: "Permanent Marker", cursive;
+  list-style: none;
+  font-size: 35px;
+  color: #2c5d63;
+}
+.logo {
+  margin-top: 10px;
+  font-size: 100px;
+  color: #a2c11c;
+}
+.logo-two {
+  font-size: 50px;
+  color: #a2c11c;
+  text-align: center;
+}
+.websiteName {
+  margin-left: 100px;
+  font-family: "Caveat", cursive;
+  font-size: 30px;
+  margin-top: -20px;
+  color: #a2c11c;
+}
+
+.search-form {
+  text-align: center;
+}
+.search-button {
+  border-radius: 40px;
+  background-color: aliceblue;
+  padding: 10px;
+}
+.sun {
+  color: #ffff53;
+  font-size: 30px;
+  position: relative;
+  margin-top: 80px;
+}
+.days {
+  margin-top: 10px;
+  font-family: "Lora", serif;
+  color: #2c5d63;
+  font-weight: 800;
+}
+.temp-low {
+  color: rgb(124, 120, 120);
+}
+
+#day_of_week,
+#time_of_the_day {
+  font-size: 30px;
+  color: #fff653;
+  font-family: "Coming Soon", cursive;
+}
+#wind-speed {
+  text-align: left;
+}
